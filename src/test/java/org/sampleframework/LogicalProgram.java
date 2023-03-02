@@ -6,8 +6,12 @@ public class LogicalProgram {
 		String s= "kanushika";
 		int length = s.length();
 		System.out.println("length of given string is " +length);
-		
+		boolean contains = s.contains("h");
+		System.out.println(contains);
 	}
+}
+
 	
+
+
 	
-	}
